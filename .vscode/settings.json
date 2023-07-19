@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "*.java": "java",
-        "algorithm": "cpp"
-    }
+        "algorithm": "cpp",
+        "iostream": "cpp"
+    },
+    "java.debug.settings.onBuildFailureProceed": true
 }
